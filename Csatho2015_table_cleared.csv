@@ -1,0 +1,143 @@
+﻿Glacier a,ID,Region,Type,Lat (deg),Lon (deg),Dist. (km)B,"Record
+Span","Type, Entire Record","Dynamic thickness change pattern
+2003-09 Record",MaxRate,ShortTerm,Note
+Jakobshavn Isbræ,1,Jak,TW,69.1192,-49.5236,6.9,1993-2012,Full cycle thinning,Thinning,R,,
+Kangerlussuaq,2,SE,TW,68.7671,-33.3509,23.5,1998-2012,Full cycle thinning,Full cycle thinning,R,,
+Helheim,3,SE,TW,66.3851,-38.3983,8.5,1998-2012,ThinThickThin,ThinThick,R,,
+Køge Bugt C,4,SE,TW,65.1781,-41.1141,2.5,2004-2011,ThinThickThin,ThinThickThin,R,,Shear zone
+Rink Isbræ,5,Jak,TW,71.7937,-51.1943,14.9,1993-2011,Full cycle thinning,Thinning,R,,
+Store,6,Jak,TW,70.437,-50.393,7.1,2003-2012,Thickening,Thickening,,,
+Gyldenløve Fjord C,7,SE,TW,64.2331,-41.5429,2.6,2004-2009,Thinning,Thinning,R,,Shear zone
+Daugaard-Jensen,8,E,TW,71.8108,-28.8236,13.5,2004-2011,Unique,"Unique, periodic",,L,Lake drainage?
+Uunartit Islands∗ f,10,SE,TW,67.3891,-33.9403,18.3,2004-2012,Thinning,Thinning,S,,
+Deception Ø CN∗,11,SE,TW,67.759,-33.943,27.6,2003-2012,Thinning,Thinning,S,,
+A.P. Bernstorff,12,SE,TW,63.8491,-41.7052,1.6,2004-2012,ThinThickThin,ThinThickThin,R,,
+Sermeq Kujalleq,13,Jak,TW,69.989,-50.1234,2,1997-2012,ThinThickThin,"Unique, ThickThin",S,L,
+Køge Bugt S,14,SE,TW,65.0024,-41.1958,2.3,2004-2011,ThinThickThin,ThinThick,R,L,
+Tingmiarmiut Fjord,15,SE,TW,62.7937,-43.4355,7.6,1998-2008,Full cycle thinning,Full cycle thinning,R,,
+Kong Oscar,16,NW,TW,76.0672,-59.5151,7.4,1999-2012,Full cycle thinning,Full cycle thinning,S,,
+Alison,17,NW,TW,74.7071,-55.6495,16.5,2004-2012,Thinning,Thinning,S,,
+Upernavik Isstrøm C,18,NW,TW,73.0566,-53.5796,27,2003-2009,Accelerating thinning,Accelerating thinning,S,,
+Graulv,19,SE,TW,64.3496,-41.4914,2.3,2004-2009,Full cycle thinning,Full cycle thinning,S,,
+Ukaasorsuaq,20,SW,TW,62.0292,-48.3002,23.5,2003-2011,Thickening,Thickening,,,
+Illullip Sermia,21,NW,TW,74.398,-55.9834,2.1,2004-2010,Thinning,Thinning,S,,
+Upernavik Isstrøm S,22,NW,TW,72.8282,-53.8742,14.6,1999-2011,Thinning,Thinning,S,,
+Mogens Heinesen S∗,23,SE,TW,62.3373,-43.1271,0.7,2004-2012,Decelerating thinning,Decelerating thinning,R,,
+S Hayes M∗,24,NW,TW,74.832,-56.3102,9,2004-2012,Thinning,Thinning,S,,
+Sermeq Silarleq,25,Jak,TW,70.891,-50.7144,8.3,2003-2012,Thinning,Thinning,S,,
+Upernavik Isstrøm N,26,NW,TW,73.0072,-54.4216,11.1,2003-2010,Thinning,Thinning,R,,Retreated by ’08
+Steenstrup,27,NW,TW,75.2983,-57.8939,1.2,2003-2012,Thinning,Thinning,R,,
+Sverdrup,28,NW,TW,75.5933,-58.1019,1.5,2003-2010,Decelerating thinning,Decelerating thinning,R,,
+Qajuuttap Sermia,30,SW,TW,61.4114,-45.6105,7.9,2004-2012,Thickening,Thickening,,L,
+K.I.V.S. Nodre Bræg,35,SE,TW,66.6607,-35.0927,30.1,2003-2012,No dynamic change,No dynamic change,,,
+Kangiata Nunaata S.,36,SW,TW,64.1734,-49.333,14.7,1998-2012,Full cycle thinning,ThinThick,S,,
+Hayes,37,NW,TW,74.9807,-56.8436,7.4,2003-2012,Accelerating thinning,Accelerating thinning,S,L,
+Frederiksborg,38,SE,TW,68.3124,-31.4985,6.2,2003-2012,Thinning,Thinning,S,,
+Heimdal,39,SE,TW,62.8991,-42.6795,5.3,2003-2012,Thickening,Thickening,,L,
+Kakivfaat Sermiat,41,NW,TW,73.4841,-55.2759,4.8,2003-2012,Accelerating thinning,No dynamic change,S,,
+Kong Christian IV,42,SE,TW,68.5554,-30.3101,21.3,1993-2012,No dynamic change,No dynamic change,,,
+Herluf Trolle N∗,43,SE,TW,61.306,-43.5238,10.7,2004-2012,ThinThickThin,ThinThick,R,,
+Herluf Trolle S∗,45,SE,TW,61.2229,-43.5538,13.3,1998-2011,Full cycle thinning,Thinning,S,,
+Ikertivaq NN,46,SE,TW,65.7225,-39.6796,5,1997-2008,Accelerating thinning,Accelerating thinning,R,,
+Kangerlussuup S.i,47,Jak,TW,71.4254,-50.6849,22.9,1993-2011,No dynamic change,No dynamic change,,,
+Vestfjord,48,E,TW,70.3073,-29.4262,11.8,1998-2011,No dynamic change,No dynamic change,,,
+Fenris,49,SE,TW,66.3992,-37.5917,4.3,2003-2012,ThinThickThin,ThinThickThin,R,,
+Køge Bugt N,50,SE,TW,65.2313,-40.7742,4.9,2004-2011,ThinThickThin,ThinThick,R,,
+Zachariae Isstrøm,51,NE,TW,78.9071,-20.8642,7.1,1994-2012,Accelerating thinning,Thinning,S,,
+Kangilerngata S.,52,Jak,TW,69.9204,-50.2788,3.5,2005-2012,Thinning,Thinning,S,,
+Sermeq Avannarleq,53,Jak,TW,70.1069,-50.1683,7.7,2003 -2012,Thickening,Thickening,,L,
+kertivaq M,54,SE,TW,65.6176,-40.1091,4.7,2004-2012,No dynamic change ,No dynamic change,,L,
+Kruuse Fjord,57,SE,TW,67.2117,-33.8403,1.6,2004-2009,Thinning,Thinning,R,,
+Rimfaxe,58,SE,TW,63.25,-42.2939,4.4,2003-2011,Thickening,Thickening,,,
+Tracy,59,NW,TW,77.6587,-65.7384,9.2,2003-2011,Thinning,Thinning,R,,
+Mogens Heinesen C∗,60,SE,TW,62.4476,-43.298,13.2,2003-2011,Thinning,Thinning,S,,Not on fast ﬂow
+Polaric,61,SE,TW,67.9937,-32.4782,12.7,2003-2012,No dynamic change,No dynamic change,,,
+Narsap Sermia,63,SW,TW,64.7208,-49.5757,23.1,2003-2012,Accelerating thinning,Thinning,S,,
+Gyldenløve Fjord S,64,SE,TW,64.1679,-41.5667,4,2004-2009,Decelerating thinning,Decelerating thinning,R,,
+Qooqqup Sermia,66,SW,TW,61.4027,-44.8172,29.7,2004-2012,Thinning,Thinning,S,,
+Umiammakku Isbræ,68,Jak,TW,71.7365,-52.4101,1,2003-2012,Full cycle thinning,Full cycle thinning,R,,
+Heilprin,70,NW,TW,77.528,-65.9561,1.9,2003-2011,Thinning,Thinning,S,,
+Mælkevejen,73,SE,TW,63.693,-41.681,3.8,2004-2008,Decelerating thinning,Thinning,R,,
+79Northa,74,NE,TW,79.3423,-22.6087,1.4,1999-2009,No dynamic change,No dynamic change,,,
+Dietrichson,75,NW,TW,75.4585,-57.9395,1.6,2004-2012,Accelerating thinning,Thinning,S,,
+Eqalorutsit K Sb,76,SW,TW,61.3361,-46.4358,14.4,2004-2011,Thinning,Thinning,S,,
+Petermann,78,N,TW,80.5037,-60.0385,7.6,1994-2011,No dynamic change,No dynamic change,,,
+Polaric S∗,80,SE,TW,67.808,-33.319,5.2,2005-2012,Decelerating thinning,Decelerating thinning,S,,
+Skinfaxe,82,SE,TW,63.2996,-41.9407,4,2004-2011,Thickening,Thickening,,,
+Kjer,83,NW,TW,75.1365,-57.5483,7.4,2004-2012,Thinning,Thinning,S,,
+Kanger W∗,87,SE,TW,68.5156,-33.2014,11.7,2003-2010,Decelerating thinning,Decelerating thinning,R,,
+Inngia Isbræ,88,Jak,TW,72.121,-52.4739,10.9,2003-2012,Accelerating thinning,Thinning,S,,
+Docker Smith W,89,NW,TW,76.3351,-61.8923,0.7,1999-2011,Decelerating thinning,Thinning,R,,
+Eqip Sermia,90,Jak,TW,69.7704,-49.9416,11.7,2003-2012,Thinning,Thinning,S,,
+Storbræ N,93,SE,TW,68.9585,-26.0292,3.7,2003-2011,Decelerating thinning,Decelerating thinning,R,,
+Gerard de Geer,94,E,TW,73.6986,-27.4391,22.3,2003-2012,No dynamic change,No dynamic change,,,
+Issuuarsuit Sermia,97,NW,TW,76.1758,-60.4427,15.2,1999-2010,Accelerating thinning,Thinning,S,,
+Docker Smith,100,NW,TW,76.3319,-61.4529,12.7,2003-2010,Thinning,Thinning,S,,
+Qeqertarsuup Sermia,101,NW,TW,73.5977,-55.4656,2.9,2003-2012,Accelerating thinning,Thinning,S,,
+Kronborg,102,SE,TW,68.4526,-28.6509,5.9,2003-2012,Decelerating thinning,Thinning,R,,
+S Hayes SS∗,105,NW,TW,74.7549,-56.3935,6.2,2004-2010,Thinning,Thinning,R,,
+Ussing Brær N,106,NW,TW,73.9718,-55.6199,4.8,2003-2012,Thinning,Thinning,S,L,
+N Oscar S∗c,107,NW,TW,76.0962,-59.8199,8.8,2003-2010,Accelerating thinning,Accelerating thinning,S,,
+Danell Fjord∗,108,SE,TW,60.9209,-43.6656,6.6,2004-2012,Thickening,Thickening,,,
+Hagen Bræ,111A,NE,TW,81.4164,-27.7163,3.7,1994-2011,ThinThickThin,Thickening,,,closest to terminus
+Hagen Bræ,111B,NE,TW,81.4029,-27.882,6.6,1994-2011,ThickenThin,Thinning,S,,upstream from 111A
+Hagen Bræ,111C,NE,TW,81.3441,-28.8902,24.2,2004-2011,Decelerating thinning,Decelerating thinning,R,,upstream from 111B
+Akullersuup Sermia,115,SW,TW,64.3981,-49.4339,8,2003-2012,No dynamic change,No dynamic change,,,
+Hayes N,116,NW,TW,75.0556,-57.3808,7.9,2003-2012,Thinning,Thinning,S,L,
+Carlos,118,NW,TW,76.5938,-63.6556,20,2003-2012,Thinning,Thinning,S,,
+Midgård,121,SE,TW,66.496,-36.74,10,2004-2012,"Thinning, varying rate",Decelerating thinning,R,,
+Glacier de France,127,SE,TW,66.5138,-36.2063,14.8,2003-2012,Thinning,Thinning,S,,
+Cornell,130,NW,TW,74.2471,-56.0375,1.5,2003-2010,Thinning,Thinning,S,,
+Kista Dan,132,E,TW,69.9523,-27.4633,1.5,2003-2012,No dynamic change,No dynamic change,,,
+Humboldt,139,N,TW,79.7446,-63.97,7.4,1997-2009,Thinning,Thinning,S,,
+Frederikshåbs Isblink,141,SW,LT,62.7241,-49.6221,7.1,2003-2011,No dynamic change,No dynamic change,,,
+S Danell Fjord∗,143,SE,TW,60.8439,-43.693,3.9,2004-2012,Decelerating thinning,Thinning,S,,
+Ryder,144,N,TW,81.5074,-50.3701,4.1,1997-2011,Thinning,Thinning,S,,
+S Russell∗,148,SW,LT,67.0199,-49.9078,3.2,1998-2011,No dynamic change,No dynamic change,,,Maximum velocity
+Carlos W,151,NW,TW,76.4116,-63.6883,4.6,2004-2010,Thinning,Thinning,S,,
+Vestfjord S∗,157,E,TW,69.9325,-28.2497,13.2,2003-2011,No dynamic change,No dynamic change,,L,
+Steenby glacier,159,N,TW,81.4431,-54.0752,6.3,1999-2011,No dynamic change,No dynamic change,,,
+Academy,163,N,TW,81.4539,-32.367,19.4,2003-2009,Accelerating thinning,Accelerating thinning,S,,
+Kangilinnguata S.,165,SW,LT,64.965,-49.687,8.6,2003-2011,No dynamic change,No dynamic change,,,Upstream of max vel
+Courtauld,167,SE,TW,68.5127,-32.1764,1.4,2003-2012,Thinning,Thinning,S,L,
+Saqqarliup Sermia,168,Jak,TW,68.8981,-50.2935,1.3,2001-2011,Accelerating thinning,Thinning,s,,
+Brikkerne,169,N,TW,81.8183,-45.4605,2.5,2003-2009,No dynamic change,No dynamic change,,,
+Qamanaarsuup S.,173,SW,LT,64.4845,-49.4714,1.1,2003-2011,Decelerating thinning,Thinning,s,L,Maximum velocity
+Harder,177,N,TW,81.6158,-44.6664,5.3,2003-2009,No dynamic change,No dynamic change,,,
+South of Sermeq,178A,SW,LT,63.6276,-49.2491,3.6,2003-2011,No dynamic change,No dynamic change,,,Maximum velocity
+South of Sermeq,178B,SW,LT,63.5168,-49.5842,17.5,2004-2011,Thinning,Thinning,,,Terminus
+Helland E,179,NW,TW,76.3443,-64.803,8.4,2003-2009,No dynamic change,No dynamic change,,,
+Nakkaasorsuaq,181,SW,TW,63.0757,-49.4791,10.7,2004-2011,No dynamic change,No dynamic change,,,
+Majorqaq,182,SW,LT,65.7595,-50.0658,10.7,2004-2011,No dynamic change,No dynamic change,,,Upstream of max vel
+Usulluup Sermia,183,SW,LT,68.0024,-50.0266,6.7,2004-2012,No dynamic change,No dynamic change,,,Upstream of max vel
+Jætte,185,E,TW,73.4483,-27.6804,1.4,2003-2009,Thickening,Thickening,,,
+Nordenskiöld,188,SW,LT,68.3927,-50.5976,4.3,2003-2011,Thinning,Thinning,s,,Upstream of max vel
+Saqqap Sermersua,189A,SW,LT,65.3044,-50.3826,2.3,1993-2011,No dynamic change,No dynamic change,,,Maximum velocity
+Saqqap Sermersua,189B,SW,LT,65.2113,-50.6708,14.8,2004-2012,Decelerating thinning,Thinning,,,Terminus
+Wordie,190A,E,LT,74.5106,-23.8801,1.7,1997-2009,No dynamic change,No dynamic change,,,Maximum velocity
+Wordie,190B,E,LT,74.1752,-22.4369,57.2,1994-2008,ThickenThin,Thinning,s,,Terminus
+Kangerluarsuup S.,191,Jak,TW,71.21,-50.9589,19.4,2003-2012,Thinning,Thinning,s,,
+Morell,193,NW,TW,76.3418,-62.4143,7.7,2003-2011,Full cycle thinning,Full cycle thinning,s,,
+Nordenskiöld,194,E,TW,73.1316,-27.9783,2.7,2003-2012,ThinThickThin,ThinThicken,s,L,
+Kangaasarsuup S.,197A,SW,LT,64.0409,-49.2762,13.1,2003-2011,No dynamic change,No dynamic change,,,Maximum velocity
+Kangaasarsuup S.,197B,SW,LT,64.1491,-49.8221,16.2,2003-2009,Accelerating thinning,Accelerating thinning,s,,Terminus
+Violin,200A,E,LT,72.372,-27.0499,2.1,2003-2012,No dynamic change,No dynamic change,,,Maximum velocity
+Violin,200B,E,LT,72.1545,-26.6988,28.2,2003-2012,Thinning,Thinning,s,,Terminus
+Isunnguata Sermia,205,SW,LT,67.1855,-49.9966,0.2,2003-2010,No dynamic change,No dynamic change,,,Maximum velocity
+Russell,212,SW,LT,67.0997,-49.9542,0.6,1993-2011,No dynamic change,No dynamic change,,,Maximum velocity
+Waltershausen,214,E,TW,73.843,-24.366,5.2,1997-2009,Accelerating thinning,Thinning,s,,
+Wahlenberg,215,E,LT,72.6218,-27.9065,6.3,2003-2012,No dynamic change,No dynamic change,,,Maximum velocity
+Helland,216,NW,TW,76.2987,-64.8649,12.1,2003-2009,No dynamic change,No dynamic change,,,
+Marie Sophie,217A,N,TW,81.7733,-33.1402,4.4,2003-2009,Thinning,Thinning,s,,Terminus
+Marie Sophie,217B,N,TW,81.8191,-33.7598,14.7,2003-2009,Thickening,Thickening,,,Upstream
+Alangorliup Sermia,219,Jak,TW,68.9139,-50.1742,4,1997-2011,ThickenThin,Thinning,s,,
+Harald Moltke Bræ,220,NW,TW,76.5695,-67.63,5.6,2004-2011,Thinning,Thinning,s,L,
+Storstrømmen,225A,NE,TW,76.8391,-22.5615,14.7,1997-2012,Thinning,Thinning,s,,Terminus
+Storstrømmen,225B,NE,TW,77.5358,-24.1853,102.3,1994-2008,Thickening,Thickening,,,Upstream
+Eielson,230,E,TW,71.1735,-28.0054,6.1,2003-2011,Thinning,Thinning,s,,
+Nordfjord,233,SE,TW,68.6567,-32.6238,1.2,2003-2012,Thinning,Thinning,s,,
+Pitugﬁk,234,NW,TW,76.2768,-68.5562,9.7,2003-2011,Accelerating thinning,Thinning,s,,
+Kofoed-Hansen Bræ,240,NE,TW,77.5141,-21.8244,1.6,2003-2012,Thinning,Thinning,s,,
+Newman Bugt,241,N,TW,81.2588,-57.1194,8.5,2003-2012,No dynamic change,No dynamic change,,,
+L. Bistrup Bræ,242A,NE,TW,76.6414,-22.8038,2.8,1994-2009,Accelerating thinning,Thinning,s,,Terminus
+L. Bistrup Bræ,242B,NE,TW,76.2284,-22.9404,46.6,1997-2012,Thickening,Thickening,,,Upstream
